@@ -4,7 +4,7 @@ tbl1 = {}
 tbl2 = {1, 2, 3}
 -- 创建一个table , 并进行赋值操作 , 修改值操作 , 遍历输出操作
 a = {1, 2, 'var'}
-a["key"] = "value"
+a.key = "value"
 key = 10
 a[key] = 22
 a[key] = a[key] + 11
