@@ -18,7 +18,7 @@
 - [function (函数)](Note/1.数据类型.md/#function)
 - [thread (线程)](Note/1.数据类型.md/#thread)
 - [userdata (自定义类型)](Note/1.数据类型.md/#userdata)
-## [变量与运算符](Note/2.变量与运算符.md)
+## [变量-运算符](Note/2.变量-运算符.md)
 - [变量](Note/2.变量与运算符.md/#变量)
 - [运算符](Note/2.变量与运算符.md/#运算符)
 ## [循环-分支-方法](Note/3.循环-分支-方法.md)
