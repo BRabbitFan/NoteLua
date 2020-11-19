@@ -1,1 +1,0 @@
-print(string.format("%-10s%-10s", "qwer", "asdf"))
