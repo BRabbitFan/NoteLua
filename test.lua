@@ -1,1 +1,1 @@
-print(string.find("Hello Lua user", "Lua ", 1))
+print(string.format("%-10s%-10s", "qwer", "asdf"))
