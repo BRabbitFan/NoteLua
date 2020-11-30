@@ -32,9 +32,13 @@
 - [循环](Note/3.循环与分支与方法.md/#循环)
 - [分支](Note/3.循环与分支与方法.md/#分支)
 - [方法](Note/3.循环与分支与方法.md/#方法)
-## [string进阶-table进阶](Note/4.string进阶与table进阶.md)
+## [数据类型进阶](Note/4.string进阶与table进阶.md)
 - [string进阶](Note/4.string进阶与table进阶.md/#string进阶)
 - [table进阶](Note/4.string进阶与table进阶.md/#table进阶)
+    - [Array (数组)](Note/4.string进阶与table进阶.md/#array)
+    - [Map (字典)](Note/4.string进阶与table进阶.md/#map)
+    - [Module/Package (模块/包)](Note/4.string进阶与table进阶.md/#modulepackage)
+    - [Object (对象)](Note/4.string进阶与table进阶.md/#object)
 
 ---
 
