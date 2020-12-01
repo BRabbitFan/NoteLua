@@ -44,12 +44,12 @@
   - [Module/Package (模块/包)](Note/4.2.数据类型进阶-table.md/#modulepackage)
   - [Object (对象)](Note/4.2.数据类型进阶-table.md/#object)
 - [iterator (迭代器) (function进阶)](Note/4.3.数据类型进阶-iterator.md/#iterator)
-## [元表-协程](Note/5.元表与协程.md)
-- [Metatable (元表)](Note/5.元表与协程.md/#元表)
-- [Coroutine (协程)](Note/5.元表与协程.md/#协程)
-## [面向对象-文件操作](Note/6.面向对象与文件操作.md)
-- [面向对象](Note/6.面向对象与协程.md/#面向对象)
-- [文件操作](Note/6.面向对象与协程.md/#文件操作)
+## [元表-协程](Note/5.1.元表.md)
+- [Metatable (元表)](Note/5.1.元表.md)
+- [Coroutine (协程)](Note/5.2.协程.md)
+## [面向对象-文件操作](Note/6.1.面向对象.md)
+- [面向对象](Note/6.1.面向对象.md)
+- [文件操作](Note/6.2.文件操作.md)
 
 ---
 
