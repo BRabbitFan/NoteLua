@@ -13,7 +13,7 @@ co = coroutine.wrap(                 -- 创建协程
 )
 co(1)                                -- 运行协程           --> 1
 print("----------")
-co = coroutine.create(
+co = coroutine.create(               -- 创建协程
   function()
     for i = 1, 10, 1 do
       print(i)
